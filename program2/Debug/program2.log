@@ -1,0 +1,6 @@
+﻿  program2.cpp
+C:\Users\w2020\Desktop\study\2semestr\dz_class\dz2\program2\program2\program2.cpp(38,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\w2020\Desktop\study\2semestr\dz_class\dz2\program2\program2\program2.cpp(39,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\w2020\Desktop\study\2semestr\dz_class\dz2\program2\program2\program2.cpp(40,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\w2020\Desktop\study\2semestr\dz_class\dz2\program2\program2\program2.cpp(41,45): warning C4305: аргумент: усечение из "double" в "float"
+  program2.vcxproj -> C:\Users\w2020\Desktop\study\2semestr\dz_class\dz2\program2\Debug\program2.exe
